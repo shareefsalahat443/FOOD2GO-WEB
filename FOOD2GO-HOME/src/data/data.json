@@ -1,0 +1,68 @@
+{
+  "Header": {
+    "title": "We are a FOOD2GO Page",
+    "paragraph":"We offer a variety of services with the best qualit,you can explore many restaurants in your area and order your favorite meals to your door"
+  },
+  "About": {
+    "paragraph": "Food2GO website was established in 2022, the site has many restaurants with different meals from all over Palestine, you can create an account and start browsing the menu of restaurants around you and order the most delicious meals to have it delivered to your door. Many offers and discounts await you when you order through our website, in addition to many other features such as cash on delivery and bookmark restaurants / meals.",
+    "Why": [
+      "Quality and Variety of Food Options",
+      "Speed and Reliability of Delivery",
+      "Customer Service Excellence",
+      "Competitive Pricing and Value"
+    ],
+    "Why2": [
+      "Safety and Hygiene Standards",
+      "Environmental Responsibility",
+      "Technological Innovation",
+      "Local Community Involvement"
+    ]
+  },
+  "Testimonials": [
+    {
+      "img": "img/testimonials/shareef.jpg",
+      "text": "\"Not only does this service offer incredible meals,but I also appreciate their commitment to sustainability. Eco-friendly packaging and a focus on locally sourced ingredients show they care about the planet as much as they do their customers.\"",
+      "name": "Abdullah Obaid"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"From the user-friendly app to the diverse menu options and the delightful unboxing experience—everything about this service exceeds expectations. It's not just about the convenience; it's the excitement of trying new dishes each week, knowing they'll always be delicious.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I was initially skeptical about food delivery, worried the quality might not meet my standards. I couldn't have been more wrong. Every dish has been bursting with flavor, fresh ingredients, and clearly prepared with care. It's like having a restaurant experience at home.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"The few times I've had questions or needed to adjust an order, the customer service team was on it—friendly, efficient, and effective. It's refreshing to see a company that values its customers so highly.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"With my hectic schedule, finding time to prepare meals was always a struggle. This service has been a game-changer. Fresh, delicious meals delivered right to my door, exactly when I need them. I've never experienced such convenience paired with quality. Absolutely recommend!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"I'm genuinely impressed by the punctuality of the delivery. In my months using this service, not once has an order been late. It's reliability I can count on, making meal planning so much easier.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/shareef.jpg",
+      "name": "Shareef Salahat",
+      "job": "Director"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
